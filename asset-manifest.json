@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ijtshopguide/static/css/main.020a6e6d.css",
-    "main.js": "/ijtshopguide/static/js/main.28a0ebdb.js",
+    "main.css": "/ijtshopguide/static/css/main.079bd6bf.css",
+    "main.js": "/ijtshopguide/static/js/main.dbfc6fc1.js",
     "static/js/453.d641b781.chunk.js": "/ijtshopguide/static/js/453.d641b781.chunk.js",
     "static/media/Star2.png": "/ijtshopguide/static/media/Star2.5a9818b4fba22d5a5bc8.png",
     "static/media/StarFilled3.png": "/ijtshopguide/static/media/StarFilled3.841ad329dddaae65eca0.png",
@@ -10,12 +10,12 @@
     "static/media/MoneyFilled16.png": "/ijtshopguide/static/media/MoneyFilled16.922aafa004c5376bf33b.png",
     "static/media/Sinteria Regular.otf": "/ijtshopguide/static/media/Sinteria Regular.a35a224460271c0bb9a6.otf",
     "index.html": "/ijtshopguide/index.html",
-    "main.020a6e6d.css.map": "/ijtshopguide/static/css/main.020a6e6d.css.map",
-    "main.28a0ebdb.js.map": "/ijtshopguide/static/js/main.28a0ebdb.js.map",
+    "main.079bd6bf.css.map": "/ijtshopguide/static/css/main.079bd6bf.css.map",
+    "main.dbfc6fc1.js.map": "/ijtshopguide/static/js/main.dbfc6fc1.js.map",
     "453.d641b781.chunk.js.map": "/ijtshopguide/static/js/453.d641b781.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.020a6e6d.css",
-    "static/js/main.28a0ebdb.js"
+    "static/css/main.079bd6bf.css",
+    "static/js/main.dbfc6fc1.js"
   ]
 }
